@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <em>Coming soon.</em>
+  <a href="https://loquira.com">
+    loquira.com
+  </a>
 </p>
 
 ---
@@ -66,5 +68,9 @@ No card required. Start free, scale when ready.
 <p align="center">
   <strong>Loquira</strong><br>
   Realtime translation for the world's most important conversations.<br><br>
-  <strong>Going live soon.</strong>
+  <strong>
+    <a href="https://loquira.com">
+      loquira.com
+    </a>
+  </strong>
 </p>
